@@ -33,3 +33,13 @@ header {
 .backdiv {
 	text-align: center;
 }
+.title {
+	font-family: 'Droid Serif', Cursive;
+}
+.description {
+	font-family: 'Droid Serif', Cursive;
+}
+#projects {
+	display: flex;
+	flex-direction: column;
+}
