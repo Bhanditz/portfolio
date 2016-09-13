@@ -1,5 +1,8 @@
 body {
 	margin-top: 80px;
+	background-color: #ff791a;
+	display:flex;
+	justify-content: center;
 }
 a {
 	font-family: 'Baloo Tamma', cursive;
